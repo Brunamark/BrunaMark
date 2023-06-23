@@ -9,6 +9,7 @@ Sou apaixonada por tecnologia e nesse ano de 2023, comecei a estudar acerca de n
 <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunamark&layout=compact" />
 </div>
+
 ## Tecnologias que eu estou usando atualmente
 <div style="display: inline_block"><br/>
   <img align="center" alt = "C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
