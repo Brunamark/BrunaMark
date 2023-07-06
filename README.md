@@ -1,4 +1,4 @@
-### Olá! Eu sou a Bruna Markowisk 🖥️
+### Hello! I am Bruna Markowisk 🖥️
 
 I am passionate about technology and in that year 2023, I started studying about new IT tools and expanding my knowledge. My dream is to become a professional in the field of Offensive Cybersecurity and I am on my journey to make this my profession. I am always studying beyond my college, in order to always complement and learn new skills. I am focused on sharing my knowledge with other Devs and frequently publishing my repositories so that I can make a difference in the learning of the community.
 
@@ -10,7 +10,7 @@ I am passionate about technology and in that year 2023, I started studying about
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunamark&layout=compact" />
 </div>
 
-## Tecnologias que eu estou usando atualmente
+## Technologies I'm currently using
 <div style="display: inline_block"><br/>
   <img align="center" alt = "C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
