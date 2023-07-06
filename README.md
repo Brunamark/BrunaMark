@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Bruna Markowisk 🖥️
 
-Sou apaixonada por tecnologia e nesse ano de 2023, comecei a estudar acerca de novas ferramentas de TI e expandir os meus conhecimentos. Meu sonho é me tornar uma profissional na área de CyberSegurança ofensiva e estou trilhando a minha jornada para que isso se torne a minha profissão. Eu também me interesso bastante em desenvolvimento de software e estou sempre estudando além da minha faculdade, com o intuito de sempre complementar e aprender novas habilidades. Estou focada em compartilhar com outros Devs os meus conhecimentos e publicar com frequência meus repositórios para que possa fazer diferença no aprendizado da comunidade.
+I am passionate about technology and in that year 2023, I started studying about new IT tools and expanding my knowledge. My dream is to become a professional in the field of Offensive Cybersecurity and I am on my journey to make this my profession. I am always studying beyond my college, in order to always complement and learn new skills. I am focused on sharing my knowledge with other Devs and frequently publishing my repositories so that I can make a difference in the learning of the community.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-markowisk-848384184/)
 
