@@ -1,6 +1,6 @@
 ### Hello! I am Bruna Markowisk 🖥️
 
-I am passionate about technology and in that year 2023, I started studying about new IT tools and expanding my knowledge. My dream is to become a professional in the field of Offensive Cybersecurity and I am on my journey to make this my profession. I am always studying beyond my college, in order to always complement and learn new skills. I am focused on sharing my knowledge with other Devs and frequently publishing my repositories so that I can make a difference in the learning of the community.
+I am passionate about technology and in that year 2023, I started studying about new IT tools and expanding my knowledge. My dream is to become a professional in the field of Offensive Cybersecurity and I am on my journey to make this my dream job. I am always studying beyond my college, in order to always complement and learn new skills. I am focused on sharing my knowledge with other Devs and frequently publishing my repositories so that I can make a difference in the learning of the community. Feel free to contact me if you want!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-markowisk-848384184/)
 
