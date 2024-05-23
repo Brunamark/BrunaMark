@@ -3,6 +3,8 @@
 I'm a Software Engineer student and also a Embedded System developer. My mainly goal is study backend but I also make frontend projects, including UI using figma. I'd like to invite you to see my projects and feel free to contact me if you want!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-markowisk-848384184/)
+
+
    ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunamark&show_icons=true&theme=tokyonight)
 <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunamark&layout=compact" />
