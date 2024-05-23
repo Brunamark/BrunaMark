@@ -1,6 +1,6 @@
 ### Hello! I'm Bruna Markowisk 🖥️
 
-I'm focused on sharing my knowledge with other Devs and frequently publishing my repositories so that I can make a difference in the learning of the community. I'd like to invite you to see my projects and feel free to contact me if you want!
+I'm a Software Engineer student and I'm focused on study fullstack. I'd like to invite you to see my projects and feel free to contact me if you want!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-markowisk-848384184/)
 
