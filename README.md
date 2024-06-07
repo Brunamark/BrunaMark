@@ -10,6 +10,7 @@ I'm a Software Engineer student and also a Embedded System developer. My mainly 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunamark&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunamark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ 
 ## Technologies I'm currently using
 <div style="display: inline_block"><br/>
  <img align="center" alt ="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
