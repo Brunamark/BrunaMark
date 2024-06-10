@@ -63,7 +63,7 @@ public class SoftwareEngineer {
 
 
 <ul>
-<li><a href="https://www.linkedin.com/in/bruna-markowisk-848384184/">LinkedIn</a></li>
+<li>✉️email: brunamarkowisk@gmail.com</li>
 </ul>
 </details>
 
