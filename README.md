@@ -1,6 +1,6 @@
 ### Hello! I'm Bruna Markowisk 🖥️
 
-I'm a Software Engineer student and also a Embedded System developer. My mainly goal is study backend but I also make frontend projects, including UI using figma. I'd like to invite you to see my projects and feel free to contact me if you want!
+I'm a Software Engineer student and also a Embedded System developer. My mainly goal is become a fullstack developer but I also make wireframe designs using figma. I'd like to invite you to see my projects and feel free to contact me if you want to develop some projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-markowisk-848384184/)
 
