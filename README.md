@@ -1,4 +1,6 @@
-### Hi There!
+<img width=100% height=120% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2CBF,100:10002B"/>
+
+## Hi There! 👋
 ```java
 public class SoftwareEngineer {
     private String name;
@@ -59,11 +61,14 @@ public class SoftwareEngineer {
 <summary><b>💬 Contact</b></summary>
 <br />
 
+
 <ul>
 <li><a href="https://www.linkedin.com/in/bruna-markowisk-848384184/">LinkedIn</a></li>
 </ul>
 </details>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2CBF,100:10002B"/>
 
 
 
