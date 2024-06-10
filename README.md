@@ -1,38 +1,68 @@
-### Hello! I'm Bruna Markowisk 🖥️
+### Hi There!
+```java
+public class SoftwareEngineer {
+    private String name;
+    private String role;
+    private String[] languageSpoken;
 
-I'm a Software Engineer student and also a Embedded System developer. My mainly goal is become a fullstack developer but I also make wireframe designs using figma. I'd like to invite you to see my projects and feel free to contact me if you want to develop some projects!
+    public SoftwareEngineer() {
+        this.name = "Bruna Markowisk";
+        this.role = "Software Engineer Student";
+        this.languageSpoken = new String[]{"pt_BR", "en_US"};
+    }
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-markowisk-848384184/)
+    public void sayHi() {
+        System.out.println("Thanks for dropping by. Contact me to code together and build something new :)");
+    }
+
+    public static void main(String[] args) {
+        SoftwareEngineer me = new SoftwareEngineer();
+        me.sayHi();
+    }
+}
 
 
+```
+
+
+
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
 <div>
 <a href="https://github.com/Brunamark">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunamark&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunamark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
-## Technologies I'm currently using
-<div style="display: inline_block"><br/>
- <img align="center" alt ="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt = "CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img align="center" alt = "C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   <img align="center" alt = "C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
 
+</details>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
- ## Prototyping Platforms
- <div style="display: inline_block"><br/>
-  <img align="center" alt="Espressif" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Brunamark&hide_border=true" />
+</details>
 
- </div>
+<details>
+<summary><b>💬 Contact</b></summary>
+<br />
 
-</div>
-
-
-
+<ul>
+<li><a href="https://www.linkedin.com/in/bruna-markowisk-848384184/">LinkedIn</a></li>
+</ul>
+</details>
 
 
 
