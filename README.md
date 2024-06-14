@@ -26,7 +26,7 @@ public class SoftwareEngineer {
 
 ```
 
-...
+
 
 
 ### Languages and Tools:
