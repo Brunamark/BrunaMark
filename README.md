@@ -1,5 +1,5 @@
 
-## Hi There! 👋
+## Hi There! 
 ```java
 public class SoftwareEngineer {
     private String name;
