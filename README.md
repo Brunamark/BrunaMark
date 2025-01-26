@@ -8,7 +8,7 @@ public class SoftwareEngineer {
 
     public SoftwareEngineer() {
         this.name = "Bruna Markowisk";
-        this.role = "Software Engineer Student";
+        this.role = "Software Developer";
         this.languageSpoken = new String[]{"pt_BR", "en_US"};
     }
 
@@ -17,7 +17,7 @@ public class SoftwareEngineer {
     }
 
     public static void main(String[] args) {
-        SoftwareEngineer me = new SoftwareEngineer();
+        SoftwareDeveloper me = new SoftwareDeveloper();
         me.sayHi();
     }
 }
