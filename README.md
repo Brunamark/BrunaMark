@@ -1,4 +1,3 @@
-<img width=100% height=120% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2CBF,100:10002B"/>
 
 ## Hi There! 👋
 ```java
@@ -29,14 +28,14 @@ public class SoftwareEngineer {
 
 
 
-### Languages and Tools:
+<!--### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code> -->
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -45,7 +44,7 @@ public class SoftwareEngineer {
 <div>
 <a href="https://github.com/Brunamark">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunamark&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunamark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunamark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 </div>
 
 </details>
@@ -65,10 +64,6 @@ public class SoftwareEngineer {
 <li>✉️email: brunamarkowisk@gmail.com</li>
 </ul>
 </details>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2CBF,100:10002B"/>
-
 
 
 
