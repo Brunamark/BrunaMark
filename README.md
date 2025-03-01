@@ -4,7 +4,7 @@
 
 [bruna@archlinux ~]$ neofetch
 
-                   -`                 
+                   -`                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||        
                   .o+`			I'm currently improving my skills in backend development                     
                  `ooo/			using the Spring Boot framework,  design patterns with 
                 `+oooo:			Clean Architecture. I'm also an OS enthusiast and diving
