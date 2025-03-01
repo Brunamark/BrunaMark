@@ -1,26 +1,28 @@
 
 ## Hi There! 
-```java
-public class SoftwareEngineer {
-    private String name;
-    private String role;
-    private String[] languageSpoken;
+```bash
 
-    public SoftwareEngineer() {
-        this.name = "Bruna Markowisk";
-        this.role = "Software Developer";
-        this.languageSpoken = new String[]{"pt_BR", "en_US"};
-    }
+[bruna@archlinux ~]$ neofetch
 
-    public void sayHi() {
-        System.out.println("Thanks for dropping by. Contact me to code together and build something new :)");
-    }
+                   -`                 
+                  .o+`			I'm currently improving my skills in backend development                     
+                 `ooo/			using the Spring Boot framework,  design patterns with 
+                `+oooo:			Clean Architecture. I'm also an OS enthusiast and diving
+               `+oooooo:		into Arch Linux. Please feel free to contact me if you'd 
+               -+oooooo+:	        like to build something new!
+             `/:-:++oooo+:		
+            `/++++/+++++++:		
+           `/++++++++++++++:		
+          `/+++${c2}oooooooo/`		
+         ./ooosssso++osssssso+`		                                                  .--.
+        .oossssso-````/ossssss+`	                                                 |o_o |
+       -osssssso.      :ssssssso.	                                                 |:_/ |
+      :osssssss/        osssso+++.                                                      //   \ \
+     /ossssssss/        +ssssooo/-                                                     (|     | )
+   `/ossssso+/:-        -:/+osssso+-                                                  /'\_   _/`\
+  `+sso+:-`                 `.-/+oso:                                                 \___)=(___/
+ `++:.                           `-/+/
 
-    public static void main(String[] args) {
-        SoftwareDeveloper me = new SoftwareDeveloper();
-        me.sayHi();
-    }
-}
 
 
 ```
