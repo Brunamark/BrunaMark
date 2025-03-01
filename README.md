@@ -4,16 +4,16 @@
 
 [bruna@archlinux ~]$ neofetch
 
-                   -`                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||        
-                  .o+`			I'm currently improving my skills in backend development                     
-                 `ooo/			using the Spring Boot framework,  design patterns with 
-                `+oooo:			Clean Architecture. I'm also an OS enthusiast and diving
-               `+oooooo:		into Arch Linux. Please feel free to contact me if you'd 
-               -+oooooo+:	        like to build something new!
-             `/:-:++oooo+:		
-            `/++++/+++++++:		
-           `/++++++++++++++:		
-          `/+++${c2}oooooooo/`		
+                   -`                         
+                  .o+`			                    
+                 `ooo/			
+                `+oooo:			
+               `+oooooo:		
+               -+oooooo+:	        I'm currently improving my skills in backend development   
+             `/:-:++oooo+:		using the Spring Boot framework,  design patterns with 
+            `/++++/+++++++:		Clean Architecture. I'm also an OS enthusiast and diving
+           `/++++++++++++++:		into Arch Linux. Please feel free to contact me if you'd 
+          `/+++${c2}oooooooo/`		like to build something new!
          ./ooosssso++osssssso+`		                                                  .--.
         .oossssso-````/ossssss+`	                                                 |o_o |
        -osssssso.      :ssssssso.	                                                 |:_/ |
