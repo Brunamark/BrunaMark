@@ -4,18 +4,19 @@
 
 [bruna@archlinux ~]$ neofetch
 
-              I'm currently improving my skills in backend development   
-              using the Spring Boot framework,  design patterns with 
-              Clean Architecture. I'm also an OS enthusiast and diving
-          		into Arch Linux. Please feel free to contact me if you'd 
-          		like to build something new!
-                                                            .--.
-                                                           |o_o |
-                                                           |:_/ |
-                                                          //   \ \
-                                                         (|     | )
-                                                        /'\_   _/`\
-                                                        \___)=(___/
+           I'm currently improving my skills in backend development   
+           using the Spring Boot framework,  design patterns with 
+           Clean Architecture. I'm also an OS enthusiast and diving
+           into Arch Linux. Please feel free to contact me if you'd 
+           like to build something new!
+                                                                                                                    .---.
+                                                                                                                   /     \
+                                                                                                                   \.@-@./
+                                                                                                                   /`\_/`\
+                                                                                                                  //  _  \\
+                                                                                                                 | \     )|_
+                                                                                                                /`\_`>  <_/ \
+                                                                                                                \__/'---'\__/
 
 
 
