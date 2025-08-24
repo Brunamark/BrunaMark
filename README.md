@@ -4,24 +4,19 @@
 
 [bruna@archlinux ~]$ neofetch
 
-                   -`                         
-                  .o+`			                    
-                 `ooo/			
-                `+oooo:			
-               `+oooooo:		
-               -+oooooo+:	        I'm currently improving my skills in backend development   
-             `/:-:++oooo+:		using the Spring Boot framework,  design patterns with 
-            `/++++/+++++++:		Clean Architecture. I'm also an OS enthusiast and diving
-           `/++++++++++++++:		into Arch Linux. Please feel free to contact me if you'd 
-          `/+++${c2}oooooooo/`		like to build something new!
-         ./ooosssso++osssssso+`		                                                  .--.
-        .oossssso-````/ossssss+`	                                                 |o_o |
-       -osssssso.      :ssssssso.	                                                 |:_/ |
-      :osssssss/        osssso+++.                                                      //   \ \
-     /ossssssss/        +ssssooo/-                                                     (|     | )
-   `/ossssso+/:-        -:/+osssso+-                                                  /'\_   _/`\
-  `+sso+:-`                 `.-/+oso:                                                 \___)=(___/
- `++:.                           `-/+/
+              I'm currently improving my skills in backend development   
+              using the Spring Boot framework,  design patterns with 
+              Clean Architecture. I'm also an OS enthusiast and diving
+          		into Arch Linux. Please feel free to contact me if you'd 
+          		like to build something new!
+                                                            .--.
+        	                                                 |o_o |
+                                                           |:_/ |
+                                                          //   \ \
+                                                         (|     | )
+                                                        /'\_   _/`\
+                                                        \___)=(___/
+
 
 
 
