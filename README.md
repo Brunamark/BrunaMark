@@ -10,7 +10,7 @@
           		into Arch Linux. Please feel free to contact me if you'd 
           		like to build something new!
                                                             .--.
-        	                                                 |o_o |
+                                                           |o_o |
                                                            |:_/ |
                                                           //   \ \
                                                          (|     | )
