@@ -4,23 +4,25 @@
 
 [bruna@archlinux ~]$ neofetch
 
-           I'm currently improving my skills in backend development   
-           using the Spring Boot framework,  design patterns with 
-           Clean Architecture. I'm also an OS enthusiast and diving
-           into Arch Linux. Please feel free to contact me if you'd 
-           like to build something new!
-
-           Java | Micronaut | Spring Boot
-                                                                                                                    .---.
-                                                                                                                   /     \
-                                                                                                                   \.@-@./
-                                                                                                                   /`\_/`\
-                                                                                                                  //  _  \\
-                                                                                                                 | \     )|_
-                                                                                                                /`\_`>  <_/ \
-                                                                                                                \__/'---'\__/
-
-
+                 -`
+                 .o+`
+                `ooo/                                 Currently improving my skills in backend development.
+               `+oooo:                                I'm also an OS + pentester enthusiast and diving into Arch Linux.
+              `+oooooo:                               Please feel free to contact me if you'dlike to build something new!                              
+              -+oooooo+:
+            `/:-:++oooo+:
+           `/++++/+++++++:
+          `/++++++++++++++:
+         `/+++ooooooooooooo/`
+        ./ooosssso++osssssso+`
+       .oossssso-````/ossssss+`
+      -osssssso.      :ssssssso.
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
 
 
 ```
