@@ -6,9 +6,9 @@
 
                  -`
                  .o+`
-                `ooo/                      Currently improving my skills in backend development.
-               `+oooo:                     I'm also an OS + pentester enthusiast and diving into Arch Linux.
-              `+oooooo:                    Please feel free to contact me if you'dlike to build something new!                              
+                `ooo/          Currently improving my skills in backend development.
+               `+oooo:         I'm also an OS + pentester enthusiast and diving into Arch Linux.
+              `+oooooo:        Please feel free to contact me if you'dlike to build something new!                              
               -+oooooo+:
             `/:-:++oooo+:
            `/++++/+++++++:
